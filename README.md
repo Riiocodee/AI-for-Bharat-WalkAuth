@@ -1,4 +1,7 @@
+             #      The project is under development
+
 ZeroInterface: A Gait-Based Autonomous AI Transaction System 
+
 Powered by GAAIT
 
 ZeroInterface is a next-generation retail payment system that enables completely hands-free transactions using gait recognition. 
