@@ -1,4 +1,5 @@
              #      The project is under development
+                           COMING SOON
 
 ZeroInterface: A Gait-Based Autonomous AI Transaction System 
 
